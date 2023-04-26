@@ -5,11 +5,11 @@
 
 🖥️ Tecnologías Utilizadas
 
-# Java.
-# Eclipse.
-# Biblioteca JCalendar.
-# MySql.
-# Plugin WindowBuilder.
+ Java.
+ Eclipse.
+ Biblioteca JCalendar.
+ MySql.
+ Plugin WindowBuilder.
 
 
 
