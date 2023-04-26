@@ -9,11 +9,11 @@ Primeros Pasos:
 
 🖥️ Tecnologías Utilizadas
 
-Java
-# Eclipse
-# Biblioteca JCalendar
-#M ySql
-# Plugin WindowBuilder
+Java.
+Eclipse.
+Biblioteca JCalendar.
+MySql.
+Plugin WindowBuilder.
 
 
 
